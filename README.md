@@ -1,2 +1,2 @@
 # mi-primer-proyecto
-prueba de creación
+prueba de creación y practicando para repositorio
