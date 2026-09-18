@@ -1,2 +1,2 @@
 # mi-primer-proyecto
-prueba de creación y practicando para repositorio
+prueba de creación y practicando para repositorio y para exposicion
